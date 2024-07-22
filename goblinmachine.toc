@@ -1,0 +1,9 @@
+## Interface: 20400
+## Title: Goblin Machine Addon
+## Notes: This is a sample addon for WoW TBC.
+## Author: Your Name
+## Version: 0.0.1
+## SavedVariables: GoblinSettings
+## Dependencies: 
+
+goblinmachine.lua
